@@ -5,7 +5,7 @@ class Controller{
     var model = Model()
 
     fun addItem(text:String){
-        model.addToList(text + " Lol")
+        model.addToList(text)
     }
 
     fun returnSize(): Int{
