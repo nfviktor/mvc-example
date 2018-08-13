@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MVC.example</string>
+    <string name="welcomeText">Write something to send.</string>
+    <string name="showText"> </string>
+    <string name="writeText"> Write your text here </string>
+    <string name="show"> Show </string>
+    <string name="send"> Send </string>
 </resources>
